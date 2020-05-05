@@ -45,11 +45,11 @@
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-      <string>Request to use Microphone</string>
+      <string>O microfone é utilizado para realizar pesquisa de produtos por voz.</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSSpeechRecognitionUsageDescription">
-      <string>Request to use Speech Recognition</string>
+      <string>O microfone é utilizado para realizar pesquisa de produtos por voz.</string>
     </config-file>
 
     <header-file src="src/ios/SpeechRecognition.h"/>
